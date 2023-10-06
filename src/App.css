@@ -1,0 +1,7 @@
+@media(max-width: 767px) {
+    .navbar{
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center;
+    }
+}
